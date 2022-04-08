@@ -13,11 +13,11 @@ Al principio, no sabia que ruta de aprendizaje tomar, pero viendo algunas vivenc
 
 En ese momento, me intereso el tema de como se construye y como funciona una pagina web. Asi que comence a ver lo basico: 
 
-  - HTML ( Lenguaje de Marcado de Hipertexto ) 💻
-  - CSS ( Hojas de Estilo en Cascada ) 💻
+- HTML ( Lenguaje de Marcado de Hipertexto ) 💻
+- CSS ( Hojas de Estilo en Cascada ) 💻
 
 Una vez que domine un poco estas tecnologias, no me quede conforme, ya que los sitios que hacia se veian algo simple y estaticas. Asi que erahora de aprender algo mas: 
-  - JAVASCRIPT 💻
+- JAVASCRIPT 💻
 
 Esta tecnologia me ayudo para hacer mis sitios mas dinamicos y mas llamativos. Pero senti que no era suficiente.
 
@@ -25,6 +25,8 @@ Y... Ahora estoy aqui, aprendiendo más cosas, como VUEJS, VUEX. Pero se viene e
 
 Mis espectativas son el aprender mas herramientas que me ayuden a crear sitios de manera mas rapida y llamativas. Aprender mas tecnologias que complementen mi historial de aprendizaje.
 
-Y saben, con todo lo que aprenda, me gustaria trabajar como 💖💖💖💖 Desarrollador Web. 💖💖💖💖💖
+Y saben, con todo lo que aprenda, me gustaria trabajar como 
+
+💖💖💖💖 Desarrollador Web. 💖💖💖💖💖
 
 🚀
